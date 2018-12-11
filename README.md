@@ -31,6 +31,7 @@
 5.  [Complete Java: Thenewboston](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
 6.  [OSI and TCP IP Models - Best Explanation](https://www.youtube.com/watch?v=3b_TAYtzuho)
 7.  [OSI Reference Model - Best Explanation](https://www.youtube.com/watch?v=eKHCH6rw0As)
+8.  [Operating System: Tutorial Point](https://www.youtube.com/playlist?list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy)
 
 
 
