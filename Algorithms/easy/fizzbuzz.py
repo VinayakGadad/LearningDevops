@@ -5,13 +5,15 @@
 
 # Tags: [basic]
 
-def fizzbuzz():
-  for i in range(100):
-    if i % 15 == 0:
-      print "fizzbuzz" 
-    elif  i % 5 == 0:
-      print "buzz"
-    elif i % 3 == 0:
-      print "fizz"
+def fizzbuzz(val):
+  for i in range(val):
+    if (i%3 == 0 ):
+      print('Fizz')
+    elif (i% 5 == 0):
+      print('Buzz')
+    elif (i%3 ==0 & i%5 ==0 ):
+      print('FizzBuzz')
     else:
-      print i
+      print(i)
+
+fizzbuzz(20)

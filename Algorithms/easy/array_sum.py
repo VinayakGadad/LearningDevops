@@ -6,4 +6,7 @@ def array_sum(array):
   sum = 0
   for element in array:
     sum += element
-  return sum
+  print(sum)
+
+ls=[2, 3, 45, 53 ,112]
+array_sum(ls)
