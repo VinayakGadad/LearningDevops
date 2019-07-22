@@ -32,7 +32,8 @@
 6.  [OSI and TCP IP Models - Best Explanation](https://www.youtube.com/watch?v=3b_TAYtzuho)
 7.  [OSI Reference Model - Best Explanation](https://www.youtube.com/watch?v=eKHCH6rw0As)
 8.  [Operating System: Tutorial Point](https://www.youtube.com/playlist?list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy)
-9.  [Python Programming](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+9.  [Operating Systems by P.K.Biswas Sir](https://www.youtube.com/watch?v=MaA0vFKt-ew&list=PLLDC70psjvq5hIT0kfr1sirNuees0NIbG)
+10.  [Python Programming](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 
 
 
